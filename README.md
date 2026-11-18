@@ -54,3 +54,8 @@ usando o **CVE-2026-98260** (YuKongA) e um fork do GhostLock via Shizuku.
 - Matar nativo preso gera **panic** — única limpeza segura é reboot
 
 Ver `HANDOFF.md` para o histórico completo de descobertas e tentativas.
+
+## Créditos
+
+Créditos completos a todos os projetos e autores usados: [CREDITS.md](CREDITS.md).
+
